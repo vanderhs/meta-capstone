@@ -26,11 +26,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/vanderhs/meta-capstone
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repository
+   cd meta-capstone
    ```
 3. **Install Dependencies:**
    ```bash
